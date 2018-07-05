@@ -1,3 +1,2 @@
-# Real_estate_site
-
-Real Estate English Project
+# bootstrap_real_estate
+school dummy project
